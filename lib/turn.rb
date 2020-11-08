@@ -41,5 +41,6 @@ def turn(board)
     display_board(board)
   else
     return
+    "Invalid input! Please enter a correct input!"
   end
 end
